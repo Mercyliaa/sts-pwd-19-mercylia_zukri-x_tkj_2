@@ -43,7 +43,7 @@ Menjadi Perusahaan Penyedia Solusi Bahan Bangunan Terbesar di Regional
 ---
  
 ## Logo Perusahaan
-![Logo SIG](Logo resmi PT Semen Indonesia (SIG).jpg)
+![Logo SIG](Logo_resmi_PT_Semen_Indonesia_(SIG).jpg)
 
 ---
 
