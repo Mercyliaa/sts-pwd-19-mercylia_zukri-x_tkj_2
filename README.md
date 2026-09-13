@@ -43,7 +43,7 @@ Menjadi Perusahaan Penyedia Solusi Bahan Bangunan Terbesar di Regional
 ---
  
 ## Logo Perusahaan
-![Logo SIG](https://www.sig.id/assets/img/logo-sig.png)
+![Logo SIG](Logo resmi PT Semen Indonesia (SIG).jpg)
 
 ---
 
@@ -58,8 +58,8 @@ Email: ppid@sig.id
 ## Tautan Resmi & Media Sosial
 - [Website Resmi SIG](https://www.sig.id)  
 - [Wikipedia - SIG (perusahaan)](https://id.wikipedia.org/wiki/SIG_(perusahaan))  
-- [Instagram SIG](https://instagram.com/semenindonesia)  
-- [LinkedIn SIG](https://www.linkedin.com/company/semen-indonesia)  
+- [Instagram SIG](https://www.instagram.com/semenindonesiadistributor/)  
+- [Facebook SIG](https://www.facebook.com/SIG.SolusiBahanBangunan/)  
 
 ---
 
